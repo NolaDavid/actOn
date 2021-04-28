@@ -7,7 +7,7 @@ import React, { Component, useEffect, useState } from 'react'
 
 
 function BasketballTable(){
-const [teams, setTeams] = React.useState([])
+
 const BasketballData =  [
   {Name: 'Slamson', Team: 'Sacramento Kings', Category: 'Lion'},
   {Name: 'Stuff', Team: 'Orlando Magic', Category: 'Magic Dragon'},

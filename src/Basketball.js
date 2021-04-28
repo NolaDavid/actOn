@@ -4,7 +4,7 @@ const Basketball = () => {
   return (
     <h3>
       BasketBall
-      </h3>
+    </h3>
   )
 }
 export default Basketball;
