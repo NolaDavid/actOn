@@ -5,9 +5,7 @@ import React, {useState} from 'react'
 import BaseballTable from './BaseballTable'
 import BasketballTable from './BasketballTable'
 import FootballTable from './FootballTable'
-import Football from './Football'
-import Baseball from './Baseball'
-import Basketball from './Basketball'
+
 
 
 const App = () => {
